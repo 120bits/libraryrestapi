@@ -1,4 +1,4 @@
-# libraryrestapi
+# Library REST API
 
 This is a demo for Library RESTFUL API
 
