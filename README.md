@@ -1,6 +1,8 @@
 # Library REST API
 
-This is a demo for Library RESTFUL API
+This is a demo for Library RESTFUL API 
+
+(AWS Instance turned off, APIs won't work)
 
 1. To get all the books, GET request
 
